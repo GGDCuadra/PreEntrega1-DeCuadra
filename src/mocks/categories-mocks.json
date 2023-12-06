@@ -1,0 +1,44 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Teléfonos"
+      },
+      {
+        "id": 2,
+        "name": "Portátiles"
+      },
+      {
+        "id": 3,
+        "name": "Auriculares"
+      },
+      {
+        "id": 4,
+        "name": "Cámaras"
+      },
+      {
+        "id": 5,
+        "name": "Accesorios para PC"
+      },
+      {
+        "id": 6,
+        "name": "Smartwatches"
+      },
+      {
+        "id": 7,
+        "name": "Televisores"
+      },
+      {
+        "id": 8,
+        "name": "Altavoces inteligentes"
+      },
+      {
+        "id": 9,
+        "name": "Impresoras"
+      },
+      {
+        "id": 10,
+        "name": "Dispositivos de almacenamiento"
+      }
+    ]
+  }

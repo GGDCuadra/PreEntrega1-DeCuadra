@@ -1,0 +1,145 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Teléfono Samsung Galaxy S21",
+        "description": "Potente teléfono con pantalla AMOLED y cámara de alta resolución.",
+        "categoryId": 1,
+        "priceARS": 719992
+      },
+      {
+        "id": 2,
+        "name": "Portátil HP Pavilion",
+        "description": "Portátil ligero y potente para productividad y entretenimiento.",
+        "categoryId": 2,
+        "priceARS": 959992
+      },
+      {
+        "id": 3,
+        "name": "Auriculares Sony WH-1000XM4",
+        "description": "Auriculares inalámbricos con cancelación de ruido y calidad de sonido excepcional.",
+        "categoryId": 3,
+        "priceARS": 699992
+      },
+      {
+        "id": 4,
+        "name": "Cámara Canon EOS R5",
+        "description": "Cámara profesional con capacidad de grabación en 8K y enfoque automático avanzado.",
+        "categoryId": 4,
+        "priceARS": 1279992
+      },
+      {
+        "id": 5,
+        "name": "Teclado mecánico Corsair K95",
+        "description": "Teclado gaming mecánico con retroiluminación RGB y teclas programables.",
+        "categoryId": 5,
+        "priceARS": 299992
+      },
+      {
+        "id": 6,
+        "name": "Smartwatch Apple Watch Series 7",
+        "description": "Smartwatch con pantalla siempre encendida y funciones de salud avanzadas.",
+        "categoryId": 6,
+        "priceARS": 1099992
+      },
+      {
+        "id": 7,
+        "name": "Televisor Samsung QLED Q80T",
+        "description": "Televisor QLED con resolución 4K y tecnología Quantum HDR.",
+        "categoryId": 7,
+        "priceARS": 2499992
+      },
+      {
+        "id": 8,
+        "name": "Altavoz inteligente Amazon Echo Dot",
+        "description": "Altavoz con asistente virtual Alexa para controlar dispositivos y reproducir música.",
+        "categoryId": 8,
+        "priceARS": 79992
+      },
+      {
+        "id": 9,
+        "name": "Impresora HP LaserJet Pro",
+        "description": "Impresora láser de alta velocidad para documentos de calidad profesional.",
+        "categoryId": 9,
+        "priceARS": 499992
+      },
+      {
+        "id": 10,
+        "name": "Disco duro externo Seagate Expansion",
+        "description": "Disco duro externo de 2TB para almacenar y respaldar datos.",
+        "categoryId": 10,
+        "priceARS": 159992
+      },
+      {
+        "id": 11,
+        "name": "Tablet Samsung Galaxy Tab S7",
+        "description": "Tablet con pantalla AMOLED de 11 pulgadas y S Pen incluido.",
+        "categoryId": 1,
+        "priceARS": 749992
+      },
+      {
+        "id": 12,
+        "name": "Laptop Dell XPS 13",
+        "description": "Laptop ultradelgada con pantalla InfinityEdge y procesador Intel Core i7.",
+        "categoryId": 2,
+        "priceARS": 1799992
+      },
+      {
+        "id": 13,
+        "name": "Auriculares Bose QuietComfort 35 II",
+        "description": "Auriculares con cancelación de ruido líder en la industria y hasta 20 horas de batería.",
+        "categoryId": 3,
+        "priceARS": 999992
+      },
+      {
+        "id": 14,
+        "name": "Cámara Sony Alpha A7 III",
+        "description": "Cámara mirrorless con sensor full-frame y enfoque automático rápido.",
+        "categoryId": 4,
+        "priceARS": 1799992
+      },
+      {
+        "id": 15,
+        "name": "Mouse Logitech G Pro",
+        "description": "Mouse gaming ligero con sensor HERO y 6 botones programables.",
+        "categoryId": 5,
+        "priceARS": 49992
+      },
+      {
+        "id": 16,
+        "name": "Smartwatch Garmin Venu 2",
+        "description": "Smartwatch con pantalla AMOLED y seguimiento avanzado de la salud.",
+        "categoryId": 6,
+        "priceARS": 899992
+      },
+      {
+        "id": 17,
+        "name": "Televisor LG OLED C1",
+        "description": "Televisor OLED con resolución 4K, Dolby Vision y Dolby Atmos.",
+        "categoryId": 7,
+        "priceARS": 2799992
+      },
+      {
+        "id": 18,
+        "name": "Altavoz inteligente Google Nest Audio",
+        "description": "Altavoz con calidad de sonido mejorada y control por voz con el Asistente de Google.",
+        "categoryId": 8,
+        "priceARS": 149992
+      },
+      {
+        "id": 19,
+        "name": "Impresora Epson EcoTank ET-2750",
+        "description": "Impresora con sistema de tanques de tinta y ahorro de costos a largo plazo.",
+        "categoryId": 9,
+        "priceARS": 2499992
+      },
+      {
+        "id": 20,
+        "name": "SSD Samsung T5",
+        "description": "Unidad de estado sólido portátil con velocidad de transferencia rápida.",
+        "categoryId": 10,
+        "priceARS": 59992
+      }
+    ]
+  }
+  
